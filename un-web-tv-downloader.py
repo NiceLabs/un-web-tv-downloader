@@ -5,14 +5,7 @@ import sys
 from datetime import datetime, timedelta
 from urllib.request import Request, urlopen
 
-RE_ENTRY_ID = re.compile(re.escape("/").join([
-    re.escape("https://media.un.org"),
-    r"[a-z]{2}",
-    "asset",
-    r"k[a-z\d]+",
-    r"k([a-z\d]+)"
-]))
-
+RE_ENTRY_ID = re.compile(r"https?://(?:webtv\.|media\.)un\.org/[a-z]{2}/asset/k[a-z\d]+/k([a-z\d]+)")
 
 def get_metadata(entry_id: str):
     partner_id = 2503451
