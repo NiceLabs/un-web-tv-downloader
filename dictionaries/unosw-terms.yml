@@ -1,0 +1,309 @@
+# UN Open Source Week terminology.
+# Used by normalize_captions.py for conservative caption cleanup.
+# Keep terms stable and high-confidence. Do not add speculative speaker names.
+
+event_names:
+  - UN Open Source Week
+  - OSPOs for Good
+  - Open Source Week
+  - UN Tech Over
+  - Reboot the Earth
+  - Building the Commons
+  - Open Source for AI and Emerging Technologies
+  - Digital Public Infrastructure Day
+  - DPI Day
+
+open_source_terms:
+  - open source
+  - free and open source software
+  - FOSS
+  - FLOSS
+  - OSPO
+  - OSPOs
+  - OSPO++
+  - open source program office
+  - open source programme office
+  - open source community
+  - open source ecosystem
+  - open source governance
+  - open source strategy
+  - open source policy
+  - open source security
+  - open source software
+  - open source hardware
+  - open source AI
+  - open source models
+  - open source licenses
+  - upstream
+  - maintainer
+  - maintainers
+  - contributors
+  - community of practice
+  - commons-based peer production
+  - software bill of materials
+  - SBOM
+
+un_digital_terms:
+  - Global Digital Compact
+  - GDC
+  - Digital Public Infrastructure
+  - DPI
+  - DPIs
+  - Digital Public Goods
+  - DPG
+  - DPGs
+  - Digital Public Goods Alliance
+  - DPGA
+  - digital commons
+  - global digital commons
+  - digital cooperation
+  - digital transformation
+  - digital sovereignty
+  - technological sovereignty
+  - data governance
+  - open data
+  - open standards
+  - interoperability
+  - public digital infrastructure
+  - digital inclusion
+  - digital equity
+  - public interest technology
+  - civic technology
+  - GovStack
+  - DPI Safeguards
+
+ai_terms:
+  - AI
+  - artificial intelligence
+  - generative AI
+  - open source AI
+  - open models
+  - open weights
+  - open data
+  - training data
+  - model weights
+  - large language model
+  - LLM
+  - LLMs
+  - AI governance
+  - AI safety
+  - AI ethics
+  - AI assurance
+  - compute
+  - data commons
+  - data stewardship
+  - responsible AI
+  - algorithmic transparency
+  - foundation model
+  - frontier model
+  - open agents
+
+standards_and_policy:
+  - Sustainable Development Goals
+  - SDGs
+  - SDG
+  - Pact for the Future
+  - Summit of the Future
+  - Road Map for Digital Cooperation
+  - Global Digital Compact
+  - Interoperable Europe Act
+  - Cyber Resilience Act
+  - Public Money, Public Code
+  - Brno Open Source Declaration
+  - Open Definition
+  - Open Source Definition
+
+un_entities:
+  - United Nations
+  - UN
+  - Office for Digital and Emerging Technologies
+  - ODET
+  - Office of the Secretary-General’s Envoy on Technology
+  - OSET
+  - Office of Information and Communications Technology
+  - OICT
+  - United Nations Office of Information and Communications Technology
+  - United Nations Development Programme
+  - UNDP
+  - United Nations Children’s Fund
+  - UNICEF
+  - United Nations International Computing Centre
+  - UNICC
+  - Food and Agriculture Organization
+  - FAO
+  - United Nations Educational, Scientific and Cultural Organization
+  - UNESCO
+  - United Nations University
+  - UNU
+  - Economic and Social Council
+  - ECOSOC
+  - General Assembly
+  - Secretariat
+  - Secretary-General
+
+organizations:
+  - OpenForum Europe
+  - OFE
+  - OSPO++
+  - Linux Foundation
+  - LF
+  - Open Source Initiative
+  - OSI
+  - Apache Software Foundation
+  - Eclipse Foundation
+  - Mozilla Foundation
+  - Wikimedia Foundation
+  - GitHub
+  - GitLab
+  - Hugging Face
+  - Red Hat
+  - OpenSSF
+  - Open Source Security Foundation
+  - Sovereign Tech Agency
+  - Sovereign Tech Fund
+  - STF
+  - Centre for Digital Sovereignty
+  - ZenDiS
+  - RISE Research Institutes of Sweden
+  - RISE
+  - Johns Hopkins University
+  - JHU
+  - Foundation for Public Code
+  - Digital Public Goods Alliance
+  - DPGA
+  - Open Knowledge Foundation
+  - eGov Foundation
+  - eGovernments Foundation
+  - iSPIRT
+  - Indian Software Product Industry Round Table
+  - Smart Africa
+  - Code for Japan
+  - Open Cities Lab
+  - Open Cities
+  - OS2
+  - TODO Group
+  - The Turing Way
+  - The Alan Turing Institute
+  - Aspire to Innovate
+  - a2i
+  - Inter-American Development Bank
+  - IDB
+
+projects_and_platforms:
+  - MOSIP
+  - OpenG2P
+  - OpenCRVS
+  - RapidPro
+  - OpenStreetMap
+  - CKAN
+  - Lutece
+  - Open CoDE
+  - openDesk
+  - code.europa.eu
+  - Git
+  - GitHub
+  - GitLab
+  - Kubernetes
+  - Linux
+  - Apache HTTP Server
+  - Android
+  - LibreOffice
+  - Matrix
+  - Element
+  - iVerify
+  - National Carbon Registry
+  - Open Foris
+  - Digital Green
+  - Ushahidi
+  - OpenSanctions
+  - OpenFisca
+
+people:
+  - Amandeep Singh Gill
+  - Bernardo Mariano
+  - Bernardo Mariano Jr.
+  - Bernardo Mariano Joaquim Junior
+  - Paula Grzegorzewska
+  - Sachiko Muto
+  - Jacob Green
+  - Markus Richter
+  - Philip Thigo
+  - Hans Vestberg
+  - Adriana Groh
+  - Stefano Maffulli
+  - Sasha Luccioni
+  - Mitchell Baker
+  - Ben Cerveny
+  - Lucy Harris
+  - Sunita Grote
+  - Sameer Chauhan
+  - Robert Opp
+  - Vincent Martin
+  - Omar Mohsine
+  - Amina J. Mohammed
+  - Pearse O’Donohue
+  - Bastien Guerry
+  - Aeva Black
+  - Hilary Carter
+  - Arun Gupta
+  - Tajh Taylor
+  - Mike Milinkovich
+  - David Nalley
+  - Demetris Cheatham
+  - Chris Szymczak
+  - Ruth Ikegah
+  - Mark Pereira
+
+countries_and_places:
+  - Global South
+  - New York
+  - New York City
+  - United Nations Headquarters
+  - ECOSOC Chamber
+  - Conference Room 2
+  - Germany
+  - Kenya
+  - India
+  - France
+  - Netherlands
+  - Sweden
+  - Japan
+  - Bangladesh
+  - Brazil
+  - Estonia
+  - Czech Republic
+  - Dominican Republic
+  - Saudi Arabia
+  - South Africa
+  - Baltimore
+  - Paris
+  - Hamburg
+  - Schleswig-Holstein
+  - Brno
+  - Nairobi
+  - Kibera
+
+accessibility_and_inclusion:
+  - accessibility
+  - inclusion
+  - inclusive digital transformation
+  - gender equality
+  - multilingual
+  - localization
+  - local communities
+  - youth
+  - young people
+  - underrepresented communities
+  - marginalized communities
+
+replacements:
+  - from: '\bOspo\b'
+    to: 'OSPO'
+  - from: '\bOspo for good\b'
+    to: 'OSPOs for Good'
+  - from: '\bunicev\b'
+    to: 'UNICEF'
+  - from: '\bAR and emerging technologies\b'
+    to: 'AI and Emerging Technologies'
+  - from: ',(?=[A-Za-z])'
+    to: ', '

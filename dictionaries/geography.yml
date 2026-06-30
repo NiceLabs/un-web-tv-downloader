@@ -1,0 +1,66 @@
+# geography.yml
+# Common country and region names useful in UN transcripts.
+# Non-event-specific.
+
+regions:
+  - Africa
+  - Asia
+  - Europe
+  - Latin America
+  - Latin America and the Caribbean
+  - Caribbean
+  - Middle East
+  - North Africa
+  - Sub-Saharan Africa
+  - East Africa
+  - West Africa
+  - Central Africa
+  - Southern Africa
+  - South Asia
+  - Southeast Asia
+  - Central Asia
+  - Pacific
+  - Small Island Developing States
+  - Least Developed Countries
+  - Landlocked Developing Countries
+  - Global South
+
+countries:
+  - Afghanistan
+  - Argentina
+  - Bangladesh
+  - Barbados
+  - Brazil
+  - Canada
+  - Chile
+  - Colombia
+  - Costa Rica
+  - Dominican Republic
+  - Egypt
+  - Estonia
+  - Ethiopia
+  - France
+  - Germany
+  - Ghana
+  - India
+  - Indonesia
+  - Jamaica
+  - Japan
+  - Kazakhstan
+  - Kenya
+  - Mexico
+  - Morocco
+  - Nigeria
+  - Pakistan
+  - Paraguay
+  - Rwanda
+  - Senegal
+  - South Africa
+  - Tanzania
+  - Trinidad and Tobago
+  - Uganda
+  - Ukraine
+  - United Kingdom
+  - United States
+  - Uruguay
+  - Zambia

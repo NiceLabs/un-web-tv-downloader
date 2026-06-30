@@ -1,0 +1,63 @@
+# un-core.yml
+# Stable United Nations terminology.
+# Non-event-specific.
+
+organizations:
+  - United Nations
+  - UN
+  - United Nations Secretariat
+  - United Nations General Assembly
+  - General Assembly
+  - Security Council
+  - Economic and Social Council
+  - ECOSOC
+  - International Court of Justice
+  - Trusteeship Council
+  - UN System
+  - UN Country Team
+  - Resident Coordinator System
+  - Office of the Secretary-General
+  - Executive Office of the Secretary-General
+
+people_titles:
+  - Secretary-General
+  - Deputy Secretary-General
+  - Under-Secretary-General
+  - Assistant Secretary-General
+  - Special Envoy
+  - Special Representative
+  - Resident Coordinator
+  - High Commissioner
+  - Permanent Representative
+  - Ambassador
+
+terms:
+  - Charter of the United Nations
+  - Universal Declaration of Human Rights
+  - human rights
+  - international law
+  - multilateralism
+  - peace and security
+  - sustainable development
+  - climate action
+  - inclusion
+  - equity
+  - accessibility
+  - participation
+  - transparency
+  - accountability
+  - safeguards
+  - public interest
+  - public good
+  - global cooperation
+
+acronyms:
+  - UN
+  - SG
+  - DSG
+  - USG
+  - ASG
+  - PGA
+  - ECOSOC
+  - SDG
+  - SDGs

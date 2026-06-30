@@ -1,0 +1,80 @@
+# un-agencies.yml
+# Common UN entities and related multilateral institutions.
+# Non-event-specific.
+
+organizations:
+  - UNDP
+  - United Nations Development Programme
+  - UNEP
+  - United Nations Environment Programme
+  - UNICEF
+  - United Nations Children's Fund
+  - UNESCO
+  - United Nations Educational, Scientific and Cultural Organization
+  - UNFPA
+  - United Nations Population Fund
+  - UN Women
+  - UN-Habitat
+  - UNHCR
+  - Office of the United Nations High Commissioner for Refugees
+  - OHCHR
+  - Office of the United Nations High Commissioner for Human Rights
+  - OCHA
+  - Office for the Coordination of Humanitarian Affairs
+  - FAO
+  - Food and Agriculture Organization
+  - WHO
+  - World Health Organization
+  - WFP
+  - World Food Programme
+  - ILO
+  - International Labour Organization
+  - ITU
+  - International Telecommunication Union
+  - WIPO
+  - World Intellectual Property Organization
+  - UNIDO
+  - United Nations Industrial Development Organization
+  - UNCTAD
+  - United Nations Conference on Trade and Development
+  - UNITAR
+  - United Nations Institute for Training and Research
+  - UNU
+  - United Nations University
+  - UNOPS
+  - United Nations Office for Project Services
+  - UNODC
+  - United Nations Office on Drugs and Crime
+  - UNDRR
+  - United Nations Office for Disaster Risk Reduction
+  - UN-ODET
+  - UN Office for Digital and Emerging Technologies
+  - Office for Digital and Emerging Technologies
+  - World Bank
+  - Asian Development Bank
+  - African Development Bank
+  - Inter-American Development Bank
+
+acronyms:
+  - UNDP
+  - UNEP
+  - UNICEF
+  - UNESCO
+  - UNFPA
+  - UNHCR
+  - OHCHR
+  - OCHA
+  - FAO
+  - WHO
+  - WFP
+  - ILO
+  - ITU
+  - WIPO
+  - UNIDO
+  - UNCTAD
+  - UNITAR
+  - UNU
+  - UNOPS
+  - UNODC
+  - UNDRR
+  - UN-ODET

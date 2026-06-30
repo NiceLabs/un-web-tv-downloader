@@ -1,0 +1,34 @@
+# captioning-terms.yml
+# Generic accessibility and captioning terms.
+# Non-event-specific.
+
+terms:
+  - WebVTT
+  - captions
+  - subtitles
+  - transcript
+  - accessibility
+  - accessible
+  - assistive technology
+  - screen reader
+  - plain language
+  - readability
+  - speaker identification
+  - audio description
+  - live captioning
+  - closed captions
+  - open captions
+  - sign language
+  - International Sign
+  - interpretation
+  - simultaneous interpretation
+  - multilingual
+  - localization
+  - translation
+
+acronyms:
+  - VTT
+  - WCAG
+  - WAI
+  - ARIA
+  - AT
